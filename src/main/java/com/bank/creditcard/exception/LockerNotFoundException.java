@@ -1,4 +1,4 @@
-package com.bank.locker.exception;
+package com.bank.creditcard.exception;
 
 public class LockerNotFoundException extends RuntimeException {
     public LockerNotFoundException(String s) {

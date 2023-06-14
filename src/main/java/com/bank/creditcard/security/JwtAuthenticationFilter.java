@@ -1,4 +1,4 @@
-package com.bank.locker.security;
+package com.bank.creditcard.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

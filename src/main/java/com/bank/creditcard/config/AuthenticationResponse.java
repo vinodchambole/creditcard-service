@@ -1,4 +1,4 @@
-package com.bank.locker.config;
+package com.bank.creditcard.config;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.bank.locker.controller;
+package com.bank.creditcard.controller;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;

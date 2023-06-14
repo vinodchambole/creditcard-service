@@ -1,4 +1,4 @@
-package com.bank.locker.config;
+package com.bank.creditcard.config;
 
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package com.bank.locker.security;
+package com.bank.creditcard.security;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

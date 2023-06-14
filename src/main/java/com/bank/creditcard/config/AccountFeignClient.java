@@ -1,6 +1,6 @@
-package com.bank.locker.config;
+package com.bank.creditcard.config;
 
-import com.bank.locker.repository.Account;
+import com.bank.creditcard.repository.Account;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

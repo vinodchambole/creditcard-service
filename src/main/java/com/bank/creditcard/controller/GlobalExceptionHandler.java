@@ -1,4 +1,4 @@
-package com.bank.locker.controller;
+package com.bank.creditcard.controller;
 
 import io.jsonwebtoken.ExpiredJwtException;
 import jakarta.annotation.Priority;

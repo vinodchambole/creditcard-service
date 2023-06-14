@@ -1,4 +1,4 @@
-package com.bank.locker.security.user;
+package com.bank.creditcard.security.user;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

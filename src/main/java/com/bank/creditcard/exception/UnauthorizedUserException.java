@@ -1,4 +1,4 @@
-package com.bank.locker.exception;
+package com.bank.creditcard.exception;
 
 public class UnauthorizedUserException extends RuntimeException {
     public UnauthorizedUserException(String s) {

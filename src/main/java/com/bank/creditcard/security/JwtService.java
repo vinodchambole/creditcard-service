@@ -1,6 +1,6 @@
-package com.bank.locker.security;
+package com.bank.creditcard.security;
 
-import com.bank.locker.security.user.User;
+import com.bank.creditcard.security.user.User;
 import org.springframework.http.*;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;

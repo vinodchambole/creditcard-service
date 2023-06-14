@@ -1,4 +1,4 @@
-package com.bank.locker.repository;
+package com.bank.creditcard.repository;
 
 public enum AccountType {
 

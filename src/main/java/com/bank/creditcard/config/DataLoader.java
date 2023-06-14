@@ -1,4 +1,4 @@
-package com.bank.locker.config;
+package com.bank.creditcard.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 
 import javax.sql.DataSource;
 
-@Component
+//@Component
 public class DataLoader implements CommandLineRunner, ResourceLoaderAware {
 
     private final DataSource dataSource;

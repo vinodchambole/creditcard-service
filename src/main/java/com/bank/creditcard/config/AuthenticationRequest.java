@@ -1,4 +1,4 @@
-package com.bank.locker.config;
+package com.bank.creditcard.config;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
