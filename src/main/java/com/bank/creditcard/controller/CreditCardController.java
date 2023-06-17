@@ -44,7 +44,7 @@ public class CreditCardController {
         return new ResponseEntity<>(response, HttpStatus.OK);
     }
 
-    @PostMapping("/credit-card/pay")
+    @PostMapping("/pay")
     public ResponseEntity<PaymentResponse> makeCreditCardPayment(
             @RequestBody PaymentRequest paymentRequest) {
         PaymentResponse paymentResponse = paymentService.makeCreditCardPayment(paymentRequest);
